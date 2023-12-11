@@ -96,7 +96,7 @@ training and validation loss at a few points over the course of training.
 | 800       |    1.017   |      1.255      |
 | 1000      |    1.070   |      1.230      |
 
-The model trains at around 475 tokens per second on an M2 Ultra.
+The model trains at around 475 tokens per second on an M2 Ultra and 158 tokens per second on M2 max.
 
 [^lora]: Refer to the [arXiv paper](https://arxiv.org/abs/2106.09685) for more details on LoRA.
 [^llama]: Refer to the [arXiv paper](https://arxiv.org/abs/2302.13971) and [blog post](https://ai.meta.com/blog/large-language-model-llama-meta-ai/) for more details.
